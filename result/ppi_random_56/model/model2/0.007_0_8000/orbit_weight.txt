@@ -1,0 +1,19 @@
+orbit: 3, acc: 0.9242992992992993, simple_acc: 0.578125
+orbit: 5, acc: 1.0, simple_acc: 0.98828125
+orbit: 11, acc: 0.926241134751773, simple_acc: 0.91796875
+orbit: 12, acc: 0.837905604719764, simple_acc: 0.8828125
+orbit: 13, acc: 0.31960864247859766, simple_acc: 0.87109375
+orbit: 16, acc: 1.0, simple_acc: 0.94140625
+orbit: 23, acc: 0.9338894812770494, simple_acc: 0.58203125
+orbit: 33, acc: 0.9378615413323381, simple_acc: 0.91015625
+orbit: 38, acc: 0.7837763012181616, simple_acc: 0.671875
+orbit: 39, acc: 0.8328314548739567, simple_acc: 0.76953125
+orbit: 54, acc: 0.9105723370429253, simple_acc: 0.8671875
+orbit: 58, acc: 0.930579351481693, simple_acc: 0.59765625
+orbit: 60, acc: 0.5393612235717499, simple_acc: 0.96484375
+orbit: 61, acc: 0.8836653386454183, simple_acc: 0.98046875
+orbit: 63, acc: 0.23393478949034507, simple_acc: 0.94921875
+orbit: 64, acc: 0.42374768089053805, simple_acc: 0.95703125
+orbit: 68, acc: 0.9196428571428571, simple_acc: 0.984375
+orbit: 69, acc: 0.9764705882352941, simple_acc: 0.99609375
+mean acc: 0.7952437570250976
